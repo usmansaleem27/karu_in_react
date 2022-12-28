@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/karu_in_react/static/css/main.67462756.css",
+    "main.js": "/karu_in_react/static/js/main.27165d79.js",
+    "static/js/787.98bb940c.chunk.js": "/karu_in_react/static/js/787.98bb940c.chunk.js",
+    "static/media/background_skills.jpg": "/karu_in_react/static/media/background_skills.066bdfa102a3c663eba8.jpg",
+    "static/media/CardImage.jpg": "/karu_in_react/static/media/CardImage.4421ae378779a2d4674f.jpg",
+    "static/media/boy_skills.jpg": "/karu_in_react/static/media/boy_skills.f2e5077e053d9ae78f38.jpg",
+    "static/media/Hero.jpg": "/karu_in_react/static/media/Hero.34e14b6d10020f10d2f2.jpg",
+    "static/media/1.mp3": "/karu_in_react/static/media/1.2e4f6d37d064d7929476.mp3",
+    "index.html": "/karu_in_react/index.html",
+    "main.67462756.css.map": "/karu_in_react/static/css/main.67462756.css.map",
+    "main.27165d79.js.map": "/karu_in_react/static/js/main.27165d79.js.map",
+    "787.98bb940c.chunk.js.map": "/karu_in_react/static/js/787.98bb940c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67462756.css",
+    "static/js/main.27165d79.js"
+  ]
+}
