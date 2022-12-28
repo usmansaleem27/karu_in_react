@@ -1,0 +1,18 @@
+:root{
+    --light-black: #303134;
+    --white : #FFFFFF;
+    --orange : #FF4522;
+    --dark-orange : #f8360a;
+    --light-gray : #79797a;
+    --black : #000000;
+    --light-black-50 : #494B50;
+    --text-black : #b9b8b8;
+    --dark-black : #181818;
+}
+
+.dark-theme{
+    --light-black : #fff;
+    --white : #000000;
+    --light-black-50 : #fff;
+    --black : #fff;
+}
